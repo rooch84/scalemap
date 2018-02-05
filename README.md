@@ -12,7 +12,7 @@ An npm package for converting a value from one scale to another.
 ```
 var map = require('scalemap');
 
-var val = nmap(0.5, 0, 1, 0, 2);
+var val = map(0.5, 0, 1, 0, 2);
 ```  
   
   Output should be 1.
