@@ -1,6 +1,6 @@
 {
   "name": "scalemap",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Converts a value from one scale to another.",
   "main": "index.js",
   "scripts": {
